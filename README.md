@@ -4,7 +4,7 @@
 
 [Test Reports](https://github.com/MarkDuenas/caps/actions)
 
-[Pull Req](https://github.com/MarkDuenas/auth-api/pull/2)
+[Pull Req](https://github.com/MarkDuenas/caps/pull/2)
 
 
 ## Set up
